@@ -2,7 +2,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int startscore = 100;
+        int startScore = 100;
         int replenishment = 1100;
         int balance;
 
